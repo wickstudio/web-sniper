@@ -32,10 +32,10 @@ Before using Web-Sniper, make sure you have Python 3 installed on your system.
    cd web-sniper
    ```
 
-3. Install the required Python packages using `pip`:
+3. Install the required Python packages using `install.bat`:
 
    ```bash
-   pip install -r requirements.txt
+   install.bat
    ```
 
 ## Usage
