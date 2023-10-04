@@ -1,4 +1,3 @@
-```markdown
 # Web-Sniper
 
 Web-Sniper is a versatile command-line tool for web scraping and code analysis. It allows you to easily retrieve HTML, CSS, and JavaScript code from websites, download images, and perform basic code analysis. Whether you're a developer looking to examine the code of a web page or need to collect assets for a project, Web-Sniper has got you covered.
